@@ -5,6 +5,6 @@ Work in progress, exploring the dataset, making the model
 
 # Work description:
 
-Involves merging/joining of pandas dataframe
-To create a consolidated dataframe of features
-Using them to identify the fitment with the targets
+Involves merging/joining of pandas dataframe \
+To create a consolidated dataframe of features \
+Using them to identify the fitment with the targets \
